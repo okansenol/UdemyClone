@@ -22,6 +22,6 @@ public class RegisterRequestDto {
     @Size(min = 5,max=32)
     private String password;
     private  String name;
-    private phone;
-    private adres;
+    private String phone;
+    private String adres;
 }
