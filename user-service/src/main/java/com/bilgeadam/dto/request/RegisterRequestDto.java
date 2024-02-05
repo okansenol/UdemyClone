@@ -23,5 +23,5 @@ public class RegisterRequestDto {
     private String password;
     private  String name;
     private phone;
-    private adress;
+    private adres;
 }
