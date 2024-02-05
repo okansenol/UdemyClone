@@ -25,4 +25,6 @@ public class RegisterRequestDto {
 
     private String soyad;
 
+    private String emailAddress;
+
 }
